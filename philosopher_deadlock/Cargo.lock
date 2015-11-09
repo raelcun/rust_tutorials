@@ -1,0 +1,4 @@
+[root]
+name = "philosopher_deadlock"
+version = "0.1.0"
+

@@ -1,0 +1,7 @@
+{
+  "name": "embed",
+  "version": "1.0.0",
+  "dependencies": {
+    "ffi": "^2.0.0"
+  }
+}
